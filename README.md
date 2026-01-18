@@ -1,2 +1,2 @@
 # E-Commerce
-Un site E-Commerce dedicat calculatoarelor :D
+A basic E-Commerce Spring Boot project
